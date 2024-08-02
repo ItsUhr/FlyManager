@@ -1,9 +1,5 @@
 package de.itsuhr.config;
 
-import me.syntaxjason.ConfigurationType;
-import me.syntaxjason.annotation.ConfigParam;
-import me.syntaxjason.annotation.ConfigSource;
-
 import java.util.ArrayList;
 import java.util.List;
 
