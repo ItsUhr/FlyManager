@@ -3,7 +3,6 @@ package de.itsuhr;
 import de.itsuhr.commands.FlyCommand;
 import de.itsuhr.config.MessageConfig;
 import de.itsuhr.config.PermissionConfig;
-import me.syntaxjason.ConfigurationFactory;
 import org.bukkit.plugin.java.JavaPlugin;
 
 import java.io.File;
